@@ -14,13 +14,13 @@
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/vshdzvc"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
 I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I am currently studying software engineering at. I'm nothing special but I hope to change that in the future.
 
 
 ## **📊 Github Stats**
