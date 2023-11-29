@@ -19,7 +19,7 @@ I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading 
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+<a href="https://github.com/vshdzvc"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 I am currently studying software engineering at. I'm nothing special but I hope to change that in the future.
 
 
