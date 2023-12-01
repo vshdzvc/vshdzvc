@@ -4,9 +4,8 @@
 
 </div>
 
-![Preview](./images/bg.webp)
 
-<a href="https://discord.com/users/738748102311280681"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.com/users/1000789107343097926"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/738748102311280681?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
 ### Hi!👋 I'm **`Vsh`** aka `Mizu🧋`
@@ -47,17 +46,16 @@ Hehe~ another cutie has been caught.
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [miyagawamizu](https://discord.com/users/738748102311280681)
+<a href="https://github.com/vshdzvc"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
+**Please Contact me on Discord for a quick response:** [vosonha](https://discord.com/users/1000789107343097926)
 
-**You can also email me here:** acutegirldoescutethings@gmail.com
+**You can also email me here:** vsh15082006@gmail.com
 
 <!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
-[![](https://img.shields.io/github/followers/vshdzvc?label=Followers&style=social)](https://github.com/MiyagawaMizu)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/350945523810959361)
-[![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/miyagawamizu)
-[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/miyagawamizu)
+[![](https://img.shields.io/github/followers/vshdzvc?label=Followers&style=social)](https://github.com/vshdzvc)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1000789107343097926)
+[![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/100032708439828)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/vshdzvc)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/MiyagawaMizu)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:miyagawamizu@courvix.com)
-[![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu)
-<!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:vsh15082006@courvix.com)
+[![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](ko-fi.com/vshdzvc)
